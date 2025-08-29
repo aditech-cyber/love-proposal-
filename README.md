@@ -1,2 +1,2 @@
-# love-proposal-
+# love-proposal
 prank
